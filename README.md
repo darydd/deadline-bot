@@ -8,6 +8,7 @@ Students can add deadlines with a slash command and pull up a sorted list of eve
 - `/adddeadline` - Adds a deadline with a module name, title and due date
 - `/deadlines` - Lists all upcoming deadlines added in the server in order of due date (soonest first)
 - `/ping` - Checks if the bot is online
+- Some future planned features involve removing/editing deadlines incase of mistakes, automatic reminders (for example the bot pings @everyone or @here a certain amount of time before a deadline)
 
 ## Reason for building
 - A mix of personal use and allowing friends on the same course as me to keep track of deadlines easily. Keeping track of deadlines especially on coursework with multiple people (Group Project Module) was a problem so this was an easy way for everyone to see deadlines.
